@@ -28,3 +28,5 @@ or
 ```js
 git clone https://github.com/Varshithvhegde/Vtu-MADLAB-VisitingCard.git
 ```
+## Main code  
+For the Design XML code [click here](https://github.com/Varshithvhegde/Vtu-MADLAB-VisitingCard/blob/master/app/src/main/res/layout/activity_main.xml)
